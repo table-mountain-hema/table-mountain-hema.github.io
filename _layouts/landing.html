@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+{% include topcomment.html %}
+<html lang="{{ site.lang }}">
+
+  {% include head.html %}
+
+  <body class="landing">
+
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+
+      {% include header.html %}
+
+      <!-- Banner -->
+      <section id="banner">
+        <div class="inner">
+          <h2>{{ site.title }}</h2>
+          <p>{{ site.description }}</p>
+          <p><img class="logosize" src="{{ site.baseurl }}/images/logo.png"/></p>
+        </div>
+        {% if site.greeting %}
+          <a href="#greeting" class="more scrolly">Continue</a>
+        {% else %}
+          <a href="#landing_pages" class="more scrolly">Continue</a>
+        {% endif %}
+      </section>
+      {% if site.greeting %}
+        <!-- One -->
+        <section id="greeting" class="wrapper style1 special">
+          <div class="inner">
+            <header class="major">
+              <h2>{% if site.greeting.title %}{{ site.greeting.title }}{% else %}{{ site.title }}{% endif %}</h2>
+              <p>{% if site.greeting.text %}{{ site.greeting.text | markdownify }}{% else %}{{ site.description | markdownify }}{% endif %}</p>
+              <div class="row">
+                <div class="column">
+                  <a href="{{ site.baseurl }}/club/fencing">
+                    <p><img class="logosize" src="{{ site.baseurl }}/images/fencing_logo.png"/></p>
+                    <h3>Adult Sports Fencing</h3>
+                    <p>The interplay of lightning-quick movements and fast-changing tactics where the fastest and smartest sword wins in a flash of a blade. Fencing is a formal modern sport dating back to the 17th century and has been in every modern Olymic Games since 1896. Perfect to sharpen and improve ones mind and body no matter your age. In our club we train in the foil, sabre and épée</p>
+                    <p>Click here for more information...</p>
+                  </a>
+                </div>
+                <div class="column">
+                  <a href="{{ site.baseurl }}/club/hema">
+                    <p><img class="logosize" src="{{ site.baseurl }}/images/logo.png"/></p>
+                    <h3>HEMA</h3>
+                    <p>Historical European Martial Arts is the modern revival of Europe's lost martial history and traditions. Here we learn to fight with medieval, renaissance and victorian weapons. From longswords, daggers, military sabre's to quarterstaff's and halberds. Just as lightning fast as sports fencing demanding more control and combined with weapons that fight and feel closer to actual weapons. A perfect sport for all ages</p>
+                    <p>Click here for more information...</p>
+                  </a>
+                </div>
+              </div>
+            </header>
+          </div>
+        </section>
+      {% endif %}
+
+      <!-- Two -->
+      <section id="landing_pages" class="wrapper alt style2">
+        {% assign sorted_pages = site.pages | sort:"key" %}
+        {% for my_page in sorted_pages %}
+          {% if my_page.title %}
+            {% unless my_page.options contains 'nolanding' %}
+              <section class="spotlight" style="padding-bottom: 1em; padding-top: 1em">
+                <div class="image">
+                  <a href="{{ my_page.url | prepend:site.baseurl }}">
+                  <img src="{{ site.baseurl }}/images/{% if my_page.image %}{{ my_page.image }}{% else %}banner.jpg{% endif %}" alt="Front page cover image" />
+                  </a>
+                </div>
+                <div class="content-wrap">
+                <a href="{{ my_page.url | prepend:site.baseurl }}">
+                  <div class="content">
+                    <h2>{{ my_page.title }}</h2>
+                    <p>{{ my_page.excerpt | markdownify | strip_html | escape_once }}</p>
+                    <p>{{ my_page.excerpt2 | markdownify | strip_html | escape_once }}</p>
+                    <p><b>{{ my_page.highlight | markdownify | strip_html | escape_once }}</b></p>
+                    <p>Click here for more info.</p>
+                  </div>
+                </a></div>
+              </section>
+            {% endunless %}
+          {% endif %}
+        {% endfor %}
+      </section>
+
+        <!-- Three -->
+        <!-- This will be added in later if and when I maybe feel like it -->
+        <!-- {% if site.tags.featured %}
+          <section id="landing_features" class="wrapper style3 special">
+            <div class="inner">
+              <header class="major">
+                <h2>{{ site.features-title }}</h2> -->
+                <!-- <p>Blog posts with decent content</p> -->
+              <!-- </header>
+              <ul class="features">
+              {% for my_post in site.posts %}
+                {% if my_post.tags contains 'featured' %}
+                  {% assign i = i | plus:1 %}
+                  <li class="icon fa-{% if my_post.icon %}{{ my_post.icon }}{% else %}heart-o{% endif %}">
+                    <a href="{{ my_post.url | prepend:site.baseurl }}">
+                    <div class="container">
+                    <h3>{{ my_post.title }}</h3>
+                    <p>{{ my_post.data}}<br />{{ my_post.excerpt | strip_html | truncatewords: 16 }}</p>
+                    </div>
+                    </a>
+                  </li>
+                  {% if i == 8 %}
+                    {% break %}
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+              </ul>
+            </div>
+          </section>
+        {% endif %} -->
+
+      <!-- CTA -->
+      <section id="ending" style="padding: 0 0 1em 0; background-color: #001160;" class="fullpagev2 style1 special">
+        <div class="inner">
+          <header class="major">
+              <div class="">
+                <img style="width: 100%" src="{{ site.baseurl }}/images/join.jpg"/>
+              </div>
+          </header>
+        </div>
+      </section>
+
+      <section id="greeting" style="padding: 0 0 1em 0" class="wrapper style1 special">
+        <div class="inner">
+          <header class="major">
+            <h2>So, are you keen to play with swords?</h2>
+            <p>Come join us! Contact us on email or through our facebook pages!</p>
+            <p>Contact David Wagenfeld | (Cell) 072 194 1926 | (Email) info@engardefencing.co.za</p>
+            <p><a href="https://goo.gl/maps/uS3c9QqukE42">Club hall: 5 Greenford Rd, Newlands, Cape Town, 7700</a></p>
+          </header>
+          <ul class="icons major">
+            {% for socloc in site.social limit:3 %}
+              {% if socloc[1] %}
+                {% if socloc[0] == 'email' %}
+                  <li>
+                    <a target="_blank" href="{%if socloc[1] contains '@' %}mailto:{{ socloc[1] }}{%
+                    else %}{{ socloc[1] }}{% endif %}" class="icon fa-envelope major style5">
+                      <span class="label">E-mail</span>
+                    </a>
+                  </li>
+                {% else %}
+                  <li>
+                    <a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }} major style5">
+                      <span class="label">{{ socloc[0] }}</span>
+                    </a>
+                  </li>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+            <li>
+              <a target="_blank" href="https://www.facebook.com/Table-Mountain-Fencing-Club-217238318361009/" class="icon fa-facebook-official major style5">
+                <span class="label">Table Mountain Fencing</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      {% include footer.html %}
+
+      {% include scripts.html %}
+
+    </div>
+
+  </body>
+
+</html>
