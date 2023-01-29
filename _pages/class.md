@@ -1,6 +1,6 @@
 ---
 key: 3
-excerpt: Our classes are on Mondays and Tuesdays in Newlands, Cape Town. 
+excerpt: Our classes are on Mondays, Tuesdays and Wednesdays in Newlands, Cape Town. 
 layout: page
 title: Classes and Fees
 permalink: /classes
@@ -24,50 +24,62 @@ Individual lessons can be arranged with either David or Glenda on either day, if
 |Time|Activity|
 |----|----|
 |19:00 - 19:30|Warm-up, physical preparation and footwork|
-|19:30 - 20:30|Group technical lessons (course cycle) – sports-fencing or HEMA|
-|20:30 - 21:00|Personal coaching, directed bouting and HEMA (annual curriculum) pairs training|
-|21:00 - 22:00|Post session drinks at Forries |
+|19:30 - 20:30|Group HEMA technical lessons (course cycle)|
+|20:30 - 21:00|Personal coaching, directed bouting and HEMA sparring|
+|21:00 - 22:00|Post session drinks at Barristers|
 
 #### Tuesdays
 
 |Time|Activity|
 |----|----|
 |19:00 - 19:45|Warm-up, physical preparation and footwork training|
-|19:45 - 21:00|Directed bouting|
+|19:45 - 21:00|Directed fencing bouting|
 
-## Fee Structure 2018
+## Fee Structure 2023
 
-The tuition covers the hall rental and a club contribution for costs such as equipment and other club training gear.
+The tuition covers the hall rental and a club contribution for costs. Protective kit is leased out with rent and a deposit. No rental for equipment is required for the intro course
 
 There are two sets of payments that are required:
 
 * Annual Club membership fees
 * Quarterly Tuition fees
 
+### Intro Course
+
+The introductory course for newcomers at our club venue. Rental price for required kit is included in the price. **R870.**
+
 ### Club fees
 
-These are due at the beginning of the year entitles members to practice at our club venue and participate in club activities. **R690 per annum.**
+These are due at the beginning of the year entitles members to practice at our club venue and participate in club activities. **R800.**
 
 ### Tuition Fees
 
 The are three payment options available to members:
 
-* Fees per quarter, and payable within the first three weeks of each period: **R880**.
-* Fees per month, and payable in advance, not later than the first week of each month: **R400**.
-* Pre-paid vouchers exchangeable for lessons
-    * 4 = R420. (R105 each)
-    * 10 = R980 (R98 each)
-    * 25 = R2250 (R90 each)
-    * 60 = R4740 (R79 each)
+* **Fees per quarter**, and payable within the first three weeks of each period:
+    * 1 session a week:  **R1185** Per Quarter
+    * 2 sessions a week: **R1395** Per Quarter
+* **Fees per month**, and payable in advance, not later than the first week of each month:
+    * 1 session a week:  **R395** Per Month
+	* 2 sessions a week: **R465** Per Month
+* **Pre-paid vouchers** exchangeable for lessons
+    * 10 = **R1380** (R138 each)
+    * 25 = **R3075** (R123 each)
 
 It is the responsibility of members to hand over a voucher to the instructor on the day of the practice!
 
 ### Equipment Fees
 
-All kit, except a glove, is provided free of charge at practices in the first quarter of membership.
-Wearing a glove is compulsory, and all members are expected to have the own after the first month. They are available at about R400.
+Kit is rented out, with a deposit required.
 
-After the introductory period, basic equipment (mask and/or jacket) is available to hire @ **R150 per month**.
+Wearing a glove  is compulsory, and all members are expected to have the own after the first month. They are available at about R400.
+
+After the introductory period, basic equipment (mask and/or jacket) is available to hire:
+
+* Mask (LP) Rental: **R250** Deposit: **R1900**
+* Mask (WS) Rental: **R150** Deposit: **R900**
+* Fencing Jacket:   **R100** Deposit: **R600**
+* Chest Protector:  **R50**  Deposit: **R300**
 
 ## Club location
 
