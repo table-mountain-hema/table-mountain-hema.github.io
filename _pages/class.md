@@ -19,7 +19,7 @@ A HEMA Intro course typical runs from an Open Day for two months and culminates 
 
 Individual lessons can be arranged with either David or Glenda on either day, if available.
 
-#### Mondays
+#### Mondays: HEMA
 
 |Time|Activity|
 |----|----|
@@ -28,12 +28,26 @@ Individual lessons can be arranged with either David or Glenda on either day, if
 |20:30 - 21:00|Personal coaching, directed bouting and HEMA sparring|
 |21:00 - 22:00|Post session drinks at Barristers|
 
-#### Tuesdays
+#### Tuesdays: Fencing
 
 |Time|Activity|
 |----|----|
-|19:00 - 19:45|Warm-up, physical preparation and footwork training|
-|19:45 - 21:00|Directed fencing bouting|
+|19:00 - 19:30|Warm-up, physical preparation and footwork training|
+|19:30 - 20:30|Group fencing lesson|
+|20:30 - 21:00|Bouting|
+
+#### Wednesdays: SwordFit + HEMA intro
+
+|Time|Activity|
+|----|----|
+|18:00 - 19:00|Swordfit program|
+|19:00 - 19:30|Warm-up|
+|19:30 - 20:30|HEMA intro course + HEMA open lesson|
+|20:30 - 21:00|HEMA Sparring|
+
+![test_image](images/swordfit.png){:class="img-responsive"}{:height="100%" width="100%"}
+<div style="text-align: right">partnering with FFPtraining</div>
+<br>
 
 ## Fee Structure 2023
 
@@ -54,14 +68,11 @@ These are due at the beginning of the year entitles members to practice at our c
 
 ### Tuition Fees
 
-The are three payment options available to members:
+The are two payment options available to members:
 
 * **Fees per quarter**, and payable within the first three weeks of each period:
-    * 1 session a week:  **R1185** Per Quarter
-    * 2 sessions a week: **R1395** Per Quarter
-* **Fees per month**, and payable in advance, not later than the first week of each month:
-    * 1 session a week:  **R395** Per Month
-	* 2 sessions a week: **R465** Per Month
+    * 1 session a week:  **R1185** Per Quarter (R395 Per Month)
+    * 2 sessions a week: **R1395** Per Quarter (R465 Per Month)
 * **Pre-paid vouchers** exchangeable for lessons
     * 10 = **R1380** (R138 each)
     * 25 = **R3075** (R123 each)
@@ -73,6 +84,7 @@ It is the responsibility of members to hand over a voucher to the instructor on 
 Kit is rented out, with a deposit required.
 
 Wearing a glove  is compulsory, and all members are expected to have the own after the first month. They are available at about R400.
+Sports fencing gloves are available from R250
 
 After the introductory period, basic equipment (mask and/or jacket) is available to hire:
 
