@@ -4,7 +4,7 @@ title: Upcoming Events
 permalink: /events
 layout: page
 excerpt: We have a number of events through out the year. All are welcome to join us on our Open Days to get a taste and sense of what we do. Please contact us to book your place in the Open day session!
-highlight: Our next fencing open day is on the 31st of January 2023. Our next HEMA open day is on the 1st of February. Please contact David to book your spot!
+highlight: Our next fencing open day is on the 11th April 2023. Our next HEMA open day is on the 12th April 2023. Please contact David to book your spot!
 image: events.jpg
 background-image: fencing_banner.jpg
 ---
@@ -14,19 +14,20 @@ background-image: fencing_banner.jpg
 * Do not remove this line (it will not be displayed)
 {:toc}
 
+### Autumn Festival
+We are thrilled to announce our upcoming autumn festival, **1 April 2023** from 12:00 onwards, featuring an exciting lineup of sword fighting demonstrations, workshops, and competitions. Join us for a day of thrilling HEMA action and celebration of our martial heritage!
+
 ### Open Day
 
 Four times a year we host an Open day. Our open days are a perfect time for you to join us! If you want to learn how to swing a sword, you are welcome to come!
 
-The next Fencing Open Day is: **Tuesday 31st January 2023**
-The Sports fencing side of the open day with give you an introduction into olympic style fencing. This leads perfectly into the course and training that follows, where you will learn or re-learn old skills and hone your abilities in fencing.
+The next Fencing Open Day is: **Tuesday 11th April 2023**
+The Sports fencing side of the open day will give you an introduction into olympic style fencing. This leads perfectly into the course and training that follows, where you will learn or re-learn old skills and hone your abilities in fencing.
+
+The next HEMA Open Day is: **Wednesday 12th April 2023**
+At our HEMA Open Day, you'll have the chance to experience the thrill of historical European martial arts firsthand. Our stalwart instructors will provide demonstrations and introductory workshops on a range of weapons and techniques, from longsword to rapier and dagger. Whether you're a seasoned practitioner or new to HEMA, we welcome you to come and join us for a day of fun, learning, and camaraderie. Don't miss your chance to explore the world of historical swordsmanship!
 
 Cost is: **R50.00**
-
-The next HEMA Open Day is: **Monday 1st February 2023**
-On the HEMA side the Open day is also the start of our 8 week introduction course where we teach the basics of how to use a sabre, based on the Hungarian Highland system. This is based off of Henry Angelo's work from 1799. This course will take you from never having swung a sword to an understanding of the basics of distance, timing, and a martial system which will serve you well as you continue your HEMA studies.
-
-
 Contact David to book your spot!
 
 ### League Nights
