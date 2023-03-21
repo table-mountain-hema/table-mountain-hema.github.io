@@ -14,8 +14,12 @@ background-image: fencing_banner.jpg
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-### Autumn Festival
-We are thrilled to announce our upcoming autumn festival, **1 April 2023** from 12:00 onwards, featuring an exciting lineup of sword fighting demonstrations, workshops, and competitions. Join us for a day of thrilling HEMA action and celebration of our martial heritage!
+### [Autumn Festival](https://forms.gle/dSoMopk6GmdFmxYp8)
+We are thrilled to announce our upcoming autumn festival, **1 April 2023** from 12:00 onwards, featuring an exciting lineup of sword fighting demonstrations, workshops, and competitions. Join us for a day of thrilling HEMA action and celebration of our martial heritage!  
+
+[Click here to register now!](https://forms.gle/dSoMopk6GmdFmxYp8)
+<br/>
+
 The following food and drinks will be available thanks to our resident chef, [Jakub from Lunchworks](https://lunchworks.co.za/ )
 
 |  Menu      |   |
