@@ -17,20 +17,8 @@ background-image: fencing_banner.jpg
 ### [Spring Festival](https://forms.gle/dSoMopk6GmdFmxYp8)
 We are thrilled to announce our upcoming spring festival, **30 September 2023** from 12:00 onwards, featuring an exciting lineup of sword fighting demonstrations, workshops, and competitions. Join us for a day of thrilling HEMA action and celebration of our martial heritage!  
 
-[Click here to register now!](https://forms.gle/dSoMopk6GmdFmxYp8)
 <br/>
 
-The following food and drinks will be available thanks to our resident chef, [Jakub from Lunchworks](https://lunchworks.co.za/ )
-
-|  Menu      |   |
-| ------------- | -----:|
-| *__Marinated Pork Neck Steak with Boerewors and Chicken Thigh Steak.__ Comes with Creamy Potato Bake, Chakalaka and Oven Roasted Cajun Potato Wedges.* | R140 |
-| *__Boerewors Roll__ and Creamy Potato Bake, Chakalaka and Oven Roasted Cajun Potato Wedges* | R90 |
-| *__Veggie Burger (VEGAN)__ and Creamy Potato Bake, Chakalaka and Oven Roasted Cajun Potato Wedges*|  R100 |
-| *__3 Charcoal Black Cheesy Mushroom Sliders__ and Creamy Potato Bake, Chakalaka and Oven Roasted Cajun Potato Wedges*|  R110 |
-| *__Beer and Ciders available__* | |
-
-<br/>
 
 ### Open Day  
 Four times a year we host an Open day. Our open days are a perfect time for you to join us! If you want to learn how to swing a sword, you are welcome to come!
