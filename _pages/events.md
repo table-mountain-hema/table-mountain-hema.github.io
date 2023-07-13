@@ -14,7 +14,7 @@ background-image: fencing_banner.jpg
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-### [Autumn Festival](https://forms.gle/dSoMopk6GmdFmxYp8)
+### [Spring Festival](https://forms.gle/dSoMopk6GmdFmxYp8)
 We are thrilled to announce our upcoming spring festival, **30 September 2023** from 12:00 onwards, featuring an exciting lineup of sword fighting demonstrations, workshops, and competitions. Join us for a day of thrilling HEMA action and celebration of our martial heritage!  
 
 [Click here to register now!](https://forms.gle/dSoMopk6GmdFmxYp8)
