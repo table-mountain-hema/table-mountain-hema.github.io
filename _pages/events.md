@@ -15,7 +15,7 @@ background-image: fencing_banner.jpg
 {:toc}
 
 ### Autumn Festival
-We are thrilled to announce our upcoming Autumn festival, **16 March 2023**, featuring an exciting lineup of sword fighting demonstrations, workshops, and competitions. Join us for a day of thrilling HEMA action and celebration of our martial heritage!  
+We are thrilled to announce our upcoming Autumn festival, **16 March 2024**, featuring an exciting lineup of sword fighting demonstrations, workshops, and competitions. Join us for a day of thrilling HEMA action and celebration of our martial heritage!  
 Contact David to book your spot!
 (Cell) 072 194 1926 | (Email) info@engardefencing.co.za
 <br/>
