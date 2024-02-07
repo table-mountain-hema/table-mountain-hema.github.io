@@ -36,20 +36,16 @@ Individual lessons can be arranged with either David or Glenda on either day, if
 |19:30 - 20:30|Group fencing lesson|
 |20:30 - 21:00|Bouting|
 
-#### Wednesdays: SwordFit + HEMA intro
+#### Wednesdays: HEMA intro
 
 |Time|Activity|
 |----|----|
-|18:00 - 19:00|Swordfit program|
 |19:00 - 19:30|Warm-up|
 |19:30 - 20:30|HEMA intro course + HEMA open lesson|
 |20:30 - 21:00|HEMA Sparring|
 
-![test_image](images/swordfit.png){:class="img-responsive"}{:height="100%" width="100%"}
-<div style="text-align: right">partnering with FFPtraining</div>
-<br>
 
-## Fee Structure 2023
+## Fee Structure 2024
 
 The tuition covers the hall rental and a club contribution for costs. Protective kit is leased out with rent and a deposit. No rental for equipment is required for the intro course
 
@@ -60,7 +56,7 @@ There are two sets of payments that are required:
 
 ### Intro Course
 
-The introductory course for newcomers at our club venue. Rental price for required kit is included in the price. **R870.**
+The introductory course for newcomers at our club venue. Rental price for required kit is included in the price. **R880.**
 
 ### Club fees
 
@@ -90,7 +86,7 @@ After the introductory period, basic equipment (mask and/or jacket) is available
 
 * Mask (LP) Rental: **R250** Deposit: **R1900**
 * Mask (WS) Rental: **R150** Deposit: **R900**
-* Fencing Jacket:   **R100** Deposit: **R600**
+* Fencing Jacket:   **R100** Deposit: **R800**
 * Chest Protector:  **R50**  Deposit: **R300**
 
 ## Club location

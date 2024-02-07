@@ -1,9 +1,9 @@
 # Site settings
-title: Table Mountain Fencing and Hema
-description: Combining the traditions of Sports Fencing and Historical fencing into a holistic whole
+title: Table Mountain Fencing and HEMA
+description: Blade mastery for the modern age
 owner:
-  name: Peter van Onselen
-  url: "https://twitter.com/vanonselenpd" # your URL
+  name: Liam Chimes
+  url: "https://pure-awesome.itch.io/"
 first_published: 2018 
 url: "http://tablemountainhema.co.za" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
