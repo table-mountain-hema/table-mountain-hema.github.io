@@ -4,7 +4,7 @@ title: Upcoming Events
 permalink: /events
 layout: page
 excerpt: We have a number of events through out the year. All are welcome to join us on our Open Days to get a taste and sense of what we do. A form and further information is available if you click here.
-highlight: Our next event is our Autumn Festival, 16 March 2024. Please contact David to book your spot!
+highlight: Our next event is our Autumn Festival, 16 March 2024. Book your spot by clicking here and following the link.
 image: events.jpg
 background-image: fencing_banner.jpg
 ---
@@ -15,10 +15,16 @@ background-image: fencing_banner.jpg
 {:toc}
 
 ### Autumn Festival
-We are thrilled to announce our upcoming Autumn festival, **16 March 2024**, featuring an exciting lineup of sword fighting demonstrations, workshops, and competitions. Join us for a day of thrilling HEMA action and celebration of our martial heritage!  
+We are thrilled to announce our upcoming Autumn festival, **16 March 2024**, featuring an exciting lineup of sword fighting demonstrations, workshops, and competitions. Join us for a day of thrilling HEMA action and celebration of our martial heritage.  
+<br>
+[Click here to book your spot now!](https://docs.google.com/forms/d/e/1FAIpQLSfAaZGeIwroLFCJD8LyQMgU4GvjGe8kcN5wRfVssQb06hkk3A/viewform)
+<br>
+<br>
+<!--
 Contact David to book your spot!
 (Cell) 072 194 1926 | (Email) info@engardefencing.co.za
 <br/>
+-->
 
 
 ### Year End Festival December 2024
@@ -34,7 +40,7 @@ At our HEMA Open Day, you'll have the chance to experience the thrill of histori
 **HEMA Open Day 4 April 2024**
 
 Cost is: **R80.00**
-[Click here or follow the link below to book your spot now!](https://forms.gle/CgXGkDR4cLUBReKs7)
+[Click here to book your spot now!](https://docs.google.com/forms/d/e/1FAIpQLScuieE5xn7xFXcvbipLJQlDK4ZsLoSPWsBa_t6xRVMS7F-BRQ/viewform)
 
 ### League Nights
 
