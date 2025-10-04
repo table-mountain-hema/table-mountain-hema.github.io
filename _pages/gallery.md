@@ -1,5 +1,5 @@
 ---
-key: 5
+key: 4
 title: Gallery
 permalink: /gallery
 layout: page
