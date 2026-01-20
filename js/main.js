@@ -95,6 +95,36 @@
 
 			}
 
+
+		// Open Day modal.
+			var $openDayModal = $('#open-day-modal');
+			if ($openDayModal.length) {
+				var showModal = function() {
+					$openDayModal.removeClass('is-hidden').addClass('is-visible');
+				};
+				var hideModal = function() {
+					$openDayModal.removeClass('is-visible').addClass('is-hidden');
+				};
+
+				showModal();
+
+				$openDayModal.on('click', function(event) {
+					if ($(event.target).is('.event-modal')) {
+						hideModal();
+					}
+				});
+
+				$openDayModal.find('.event-modal__dialog').on('click', function(event) {
+					event.stopPropagation();
+				});
+
+				$openDayModal.find('.event-modal__close').on('click', function(event) {
+					event.preventDefault();
+					hideModal();
+				});
+			}
+
+
 	});
 
 })(jQuery);
