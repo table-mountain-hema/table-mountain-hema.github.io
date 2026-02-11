@@ -4,7 +4,7 @@ title: Upcoming Events
 permalink: /events
 layout: page
 excerpt: We have a number of events through out the year. All are welcome to join us on our Open Days to get a taste and sense of what we do. A form and further information is available if you click here.
-highlight: Our next events are our open days, for fencing on 27 January 2026 and HEMA on 28 January 2026. Book your spot with David.
+highlight: Our next event is our open day for fencing on 24 February 2026. Book your spot with David.
 image: events.jpg
 background-image: fencing_banner.jpg
 ---
@@ -19,10 +19,7 @@ background-image: fencing_banner.jpg
 Four times a year we host an Open day. Our open days are a perfect time for you to join us! If you want to learn how to swing a sword, you are welcome to come!
 
 The Sports fencing side of the open day will give you an introduction into olympic style fencing. This leads perfectly into the course and training that follows, where you will learn or re-learn old skills and hone your abilities in fencing.
-**Fencing Open Day 27 January 2026**
-
-At our HEMA Open Day, you'll have the chance to experience the thrill of historical European martial arts firsthand. Our stalwart instructors will provide demonstrations and introductory workshops on a range of weapons and techniques, from longsword to rapier and dagger. Whether you're a seasoned practitioner or new to HEMA, we welcome you to come and join us for a day of fun, learning, and camaraderie. Don't miss your chance to explore the world of historical swordsmanship!
-**HEMA Open Day 28 January 2026**
+**Fencing Open Day 24 February 2026**
 
 Cost is: **R85.00**
 
