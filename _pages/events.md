@@ -4,7 +4,7 @@ title: Upcoming Events
 permalink: /events
 layout: page
 excerpt: We have a number of events through out the year. All are welcome to join us on our Open Days to get a taste and sense of what we do. A form and further information is available if you click here.
-highlight: Our next events are our open days, for fencing on April 14 2026 and HEMA on April 15 2026. Book your spot with David.
+highlight: Our next events are our open days, for fencing on July 14 2026 and HEMA on July 15 2026. Book your spot with David.
 image: events.jpg
 background-image: fencing_banner.jpg
 ---
