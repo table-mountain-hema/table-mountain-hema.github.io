@@ -19,10 +19,10 @@ background-image: fencing_banner.jpg
 Four times a year we host an Open day. Our open days are a perfect time for you to join us! If you want to learn how to swing a sword, you are welcome to come!
 
 The Sports fencing side of the open day will give you an introduction into olympic style fencing. This leads perfectly into the course and training that follows, where you will learn or re-learn old skills and hone your abilities in fencing.
-**Fencing Open Day 14 July 2026**
+**Fencing Open Day 6 October 2026**
 
 At our HEMA Open Day, you'll have the chance to experience the thrill of historical European martial arts firsthand. Our stalwart instructors will provide demonstrations and introductory workshops on a range of weapons and techniques, from longsword to rapier and dagger. Whether you're a seasoned practitioner or new to HEMA, we welcome you to come and join us for a day of fun, learning, and camaraderie. Don't miss your chance to explore the world of historical swordsmanship!
-**HEMA Open Day 15 July 2025**
+**HEMA Open Day 7 October 2026**
 
 Cost for each session is: **R85.00**
 
